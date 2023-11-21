@@ -1,4 +1,4 @@
-# Intern + Angular
+# Hoodie UI
 
 This is Hoodie App's UI. 
 
