@@ -1,4 +1,4 @@
-# Hoodie UI
+# Hoodie
 
 This is Hoodie App's UI. 
 
