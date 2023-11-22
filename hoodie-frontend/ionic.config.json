@@ -1,0 +1,7 @@
+{
+  "name": "hoodie-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
